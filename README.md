@@ -1,2 +1,2 @@
-# terx-game
+# trex-game
 dinosaur game
